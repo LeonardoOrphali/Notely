@@ -57,7 +57,7 @@ Abra o `index.html` no navegador. Nenhuma instalação necessária.
 
 ## Demo
 
-[Acessar o Notely](https://leonardoorphali.github.io/to-do-list/)
+[Acessar o Notely]( https://leonardoorphali.github.io/Notely/)
 
 ---
 
